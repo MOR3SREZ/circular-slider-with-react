@@ -134,6 +134,9 @@
       color: #000;
       will-change: transform;
       z-index: 1;
+      /* background-color:aquamarine;
+      border: 1px solid red; */
+
     }
 
     /*animation goes here */

@@ -27,7 +27,7 @@ function App() {
   const slidesLength = slides.length;
   const autoScroll = true;
   let slideInterval;
-  let intervalTime = 5000;
+  let intervalTime = 3000;
 
   //Functions
   const goNextAnime = (index, dir) => {
